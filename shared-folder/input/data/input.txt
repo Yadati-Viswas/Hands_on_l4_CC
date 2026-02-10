@@ -1,5 +1,1 @@
-# Create your own input dataset
-Hello world
-Hello Hadoop
-Hadoop is powerful
-Hadoop is used for big data
+Create your own input dataset
